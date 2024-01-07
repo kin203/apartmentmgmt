@@ -1,0 +1,120 @@
+c:\users\nk203\documents\visual studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\quanlychungcu.exe.config
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\quanlychungcu.exe
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\quanlychungcu.pdb
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.csprojResolveAssemblyReference.cache
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.Properties.Resources.resources
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.csproj.GenerateResource.Cache
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.exe
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.pdb
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.ChuongTrinh.resources
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.Login.resources
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\Antlr3.Runtime.dll
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\System.Web.Optimization.dll
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\WebGrease.dll
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\System.Web.Optimization.xml
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\Guna.UI2.dll
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\bin\Debug\Guna.UI.dll
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.About.resources
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.Quanlynhanvien.resources
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.Quanlyhoadondichvu.resources
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.Quanlyhogiadinh.resources
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.Quanlyhopdong.resources
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.Hogiadinh.resources
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.Quanlybaiguixe.resources
+C:\Users\NK203\Documents\Visual Studio 2012\Projects\quanlychungcu\quanlychungcu\obj\Debug\quanlychungcu.Quanlydiennuoc.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\quanlychungcu.exe.config
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.exe
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.pdb
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Quanlychungcu.mdf
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Quanlychungcu_log.ldf
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\quanlychungcu.exe
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\quanlychungcu.pdb
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Antlr3.Runtime.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Guna.UI.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Guna.UI2.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Newtonsoft.Json.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\System.Web.Optimization.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\WebGrease.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Antlr3.Runtime.pdb
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Newtonsoft.Json.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\System.Web.Optimization.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.About.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.ChuongTrinh.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.Login.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.Hogiadinh.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.Properties.Resources.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.Quanlybaiguixe.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.Quanlydiennuoc.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.Quanlyhopdong.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.Quanlynhanvien.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.csproj.GenerateResource.Cache
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.QuanLyCanHo.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.QuanLyDichVu.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.ChiTietHopDong.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.csproj.ResolveComReference.cache
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.ChuongTrinhAdmin.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.QuanLyTaiKhoan.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.KiemTraCapNhat.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Serilog.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Serilog.Sinks.File.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Serilog.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Serilog.Sinks.File.pdb
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Serilog.Sinks.File.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.frmLayKetNoi.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\obj\Debug\quanlychungcu.BackupRestore.resources
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.SString.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Dmf.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Smo.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.Types.xml
+E:\[D16CNPM4].NguyễnXuânKiên_SV1.BùiDuyThái_SV2.rarzip\quanlychungcu\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
